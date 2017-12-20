@@ -1,0 +1,9 @@
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+.env
+.DS_Store
