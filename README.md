@@ -1,5 +1,7 @@
 # MozMeao
 
+![Team Photo](assets/photos/team-photo-current.png)
+
 ## Core Values
 
 * We treat each other, co-workers, and our community with respect, trust, and honesty.
@@ -10,11 +12,12 @@
 
 ## Our Purpose 
 
-Our team provides technical expertise and development resources to Marketing.
+Our team provides technical expertise and development resources to Marketing and the greater Mozilla
+community.
 
 
 ## Our Mission 
 
-Leverage technology to create and support open, accessible, forward thinking products and services 
+Leverage technology to create and support open, accessible, and forward-thinking products and services 
 that advance Mozilla Marketing goals while simultaneously supporting Mozilla's mission.
 
