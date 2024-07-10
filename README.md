@@ -9,15 +9,11 @@
 * We bring passion, fun, and creativity to our work. 
 * We ship often, we ship high quality.
 
-
 ## Our Purpose 
 
-Our team provides technical expertise and development resources to Marketing and the greater Mozilla
-community.
-
+Our team provides technical expertise and development resources to Marketing and the greater Mozilla community.
 
 ## Our Mission 
 
 Leverage technology to create and support open, accessible, and forward-thinking products and services 
 that advance Mozilla Marketing goals while simultaneously supporting Mozilla's mission.
-
